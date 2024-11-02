@@ -12,7 +12,7 @@
  *  - Copyrights
  *  - Links
  *  - Address
- *  - Contact
+ *  - Contact details
  *
  */
 import logo from "./assets/logo.png";
